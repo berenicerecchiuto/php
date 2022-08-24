@@ -57,7 +57,6 @@ $aPacientes[] = array(
                             <th>Nombre y Apellidos</th>
                             <th>Edad</th>
                             <th>Peso</th>
-                            <th>dhsr</th>
                         </tr>
                     </thead>
                     <tbody>
